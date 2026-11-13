@@ -103,7 +103,7 @@ It was built as Assignment 2 of the Computer Vision course (AIML ZG525) in the M
 **1. Get the code**
 
 ```bash
-git clone https://github.com/<your-username>/sketch-cnn-vs-vit.git
+git clone https://github.com/tanishq2000/sketch-cnn-vs-vit.git
 cd sketch-cnn-vs-vit
 ```
 
@@ -155,8 +155,8 @@ Run all cells from top to bottom. The first run downloads the dataset and the th
 
 ```text
 sketch-cnn-vs-vit/
-├── assignment2.ipynb            # the full pipeline, with saved outputs
-├── CV_Assignment2_Report.pdf    # four-page report with the analysis and figures
+├── main_sketch-cnn-vs-vit.ipynb            # the full pipeline, with saved outputs
+├── report_sketch-cnn-vs-vit.pdf    # four-page report with the analysis and figures
 └── README.md
 ```
 
